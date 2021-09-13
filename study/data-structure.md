@@ -237,6 +237,10 @@ avl 트리, 신장 트리, B-트리 힙 등으로 연결된다.
 > - 트리에 대한 자세한 설명은 [링크](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html) 통해 알 수 있다..
 ---
 ## 참고 사이트
+**[글 자료구조를 종류별로 다룸(더 정리가 잘 되어 있음)](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html)**
+
+[알고리즘 기초 정보{자료구조}](https://librewiki.net/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%88%98%ED%95%99%EC%9D%B8%EB%93%AF_%EA%B3%BC%ED%95%99%EC%95%84%EB%8B%8C_%EA%B3%B5%ED%95%99%EA%B0%99%EC%9D%80_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88#.EB.8B.A4.EC.9D.8C_.EB.8B.A8.EA.B3.84.EB.A1.9C)
+
 **[글 이 글에 큰틀을 따라감](http://www.incodom.kr/자료구조)**
 
 **[글 위키 자료구조 설명](https://ko.wikipedia.org/wiki/자료_구조)**

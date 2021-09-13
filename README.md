@@ -6,7 +6,7 @@
 ## 컴퓨터 과학 기초(CS fundamentals)
 - [x] [터미널 기초 사용법](study/basic-terminal-usage.md) 
 - [x] [자료 구조](study/data-structure.md)
-- [ ] [알고리즘](#)
+- [x] [알고리즘](study/algorithm.md)
 - [ ] [APIs](#)
 - [ ] [REST](#)
 - [ ] [정형 데이터 vs 비정형 데이터](#)
